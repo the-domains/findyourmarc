@@ -1,0 +1,28 @@
+name: FindYourMarc
+favicon: null
+layout_spectrum: 0.9465459478087723
+typography_spectrum: 0.0719598161522299
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.4322002767585218
+  lightness: 0.4044347556773573
+  saturation: 0.06760772923007607
+  rhythmicContrast: 0.8750054989941418
+purpose: []
