@@ -1,4 +1,4 @@
-name: FindYourMarc
+name: Find Your Marc
 favicon: null
 layout_spectrum: 0.9465459478087723
 typography_spectrum: 0.0719598161522299
@@ -22,7 +22,7 @@ color:
     - '#ababab'
     - '#ffffff'
     - '#edd1d8'
-  brandStrength: 0.5
+  brandStrength: 0.0625
   lightness: 0.4375
   saturation: 0.0625
   rhythmicContrast: 1
